@@ -10,9 +10,9 @@ function comretorno(saque){
 }
 
 function escrever(quadro){
-    info = "Úsuario número" + (++num) + "\n";
-    info += "Nome" + nome + "\n";
-    info += "E-mail" + email + "\n";
-    info += "Saldo" + comretorno(saque) + "\n\n";
+    info = "Úsuario número " + (++num) + "\n";
+    info += "Nome " + nome + "\n";
+    info += "E-mail " + email + "\n";
+    info += "Saldo " + comretorno(saque) + "\n\n";
     quadro.value += info;
 }
