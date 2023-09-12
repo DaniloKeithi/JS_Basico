@@ -4,25 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
     <title>IMC</title>
 </head>
+   
 <body>
     
-    <form name="imcForm" id="imcForm" action="#">
-        <p>
-            Altura<br>
-            <input type="text" id="altura" name="altura">
-        </p>
+    <figure class="imagem" >
+        <img src="css/img/adasd.jpg" alt="">
+    </figure>
+    <div class="form">
+        <form name="imcForm" id="imcForm" action="#">
+            <p class="altura">
+                Altura<br>
+                <input type="text" id="altura" name="altura">
+            </p>
 
-        <p>
-            Peso<br>
-            <input type="text" id="peso" name="peso">
-        </p>
+            <p class="peso">
+                Peso<br>
+                <input type="text" id="peso" name="peso">
+            </p>
 
-        <p>
-            <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc(event)">
-        </p>
-
+            <p>
+                <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc(event)">
+            </p>
+    </div>
     <div id="resul"></div> 
 
        
