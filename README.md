@@ -8,3 +8,7 @@ http://danilokeithi.github.io/JS_Basico/aula3/aula3.html
 ## funções
 http://danilokeithi.github.io/JS_Basico/Funcoes/funcoes.html
 
+## Aula IMC
+http://danilokeithi.github.io/JS_Basico/Aula-imc/imc.html
+
+
