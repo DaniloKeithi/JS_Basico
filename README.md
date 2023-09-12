@@ -11,4 +11,8 @@ http://danilokeithi.github.io/JS_Basico/Funcoes/funcoes.html
 ## Aula IMC
 http://danilokeithi.github.io/JS_Basico/Aula-imc/imc.html
 
+## Laços de repetição
+http://danilokeithi.github.io/JS_Basico/laco_de_repeticao/index.html
+
+
 
