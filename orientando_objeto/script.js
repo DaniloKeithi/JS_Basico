@@ -5,10 +5,10 @@ const person = {
     lastName: "",
     email: "",
     // Definimos um método 'setDetails' para atualizar as propriedades do objeto com os dados do formulário, funciona como um método construtor.
-    setDetails(firstName, lastName, language) {
+    setDetails(firstName, lastName, email) {
         this.firstName = firstName;
         this.lastName = lastName;
-        this.language = language;
+        this.email = email;
     },
     // Definimos um método 'displayDetails' para exibir os detalhes da pessoa no HTML.
     displayDetails() {
@@ -29,7 +29,7 @@ form.addEventListener("submit", function (e) {
     // Obtemos os valores dos campos de entrada do formulário.
     const firstName = document.getElementById("firstName").value;
     const lastName = document.getElementById("lastName").value;
-    const language = document.getElementById("email").value;
+    const email = document.getElementById("email").value;
 
     // Chamamos o método 'setDetails' metodo construtor, neste momento estamos construindo o objeto criado
     person.setDetails(firstName, lastName, email);
