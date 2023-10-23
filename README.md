@@ -14,5 +14,7 @@ http://danilokeithi.github.io/JS_Basico/Aula-imc/imc.html
 ## Laços de repetição
 http://danilokeithi.github.io/JS_Basico/laco_de_repeticao/index.html
 
+## Orientação de objetos
+http://github.com/DaniloKeithi/JS_Basico/blob/main/orientando_objeto/index.html
 
 
