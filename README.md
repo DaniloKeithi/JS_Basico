@@ -17,4 +17,7 @@ http://danilokeithi.github.io/JS_Basico/laco_de_repeticao/index.html
 ## Orientação de objetos
 http://danilokeithi.github.io/JS_Basico/orientando_objeto/index.html
 
+## Orientação objetos com laços
+http://danilokeithi.github.io/JS_Basico/orientando_obj_lacos/index.html
+
 
