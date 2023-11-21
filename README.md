@@ -20,4 +20,7 @@ http://danilokeithi.github.io/JS_Basico/orientando_objeto/index.html
 ## Orientação objetos com laços
 http://danilokeithi.github.io/JS_Basico/orientando_obj_lacos/index.html
 
+## Troca Imagem
+http://danilokeithi.github.io/JS_Basico/trocaimagem/index.html
+
 
