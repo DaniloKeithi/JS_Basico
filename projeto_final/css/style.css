@@ -1,0 +1,36 @@
+#main-image{
+    width: 350px;
+    height: 300px;
+    margin-bottom: 10px;
+
+}
+
+.bottom-image{
+    width: 350px;
+    height: 300px;
+    cursor: pointer;
+}
+
+h1{
+    padding: 20px;
+}
+
+footer{
+    
+    background-color: rgb(187, 92, 14);
+    text-align: center;
+    
+
+}
+
+form{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+body{
+    background-color:rgb(255, 220, 123);
+}
+
+
+
